@@ -2,6 +2,7 @@
 title: 欢迎来到我的博客
 description: 这是我的第一篇文章，欢迎光临！
 published: 2026-08-02
+image: ./images/firefly1.avif
 tags: [日常, 欢迎]
 category: 随笔
 draft: false
@@ -26,6 +27,8 @@ draft: false
 这个博客基于 **Astro** 框架 + [Firefly](https://github.com/CuteLeaf/Firefly) 主题，托管在 **Cloudflare Pages** 上，零成本、全球加速。
 
 邮箱用的是 Cloudflare Email Routing，任何前缀都可以收到：**xxx@20070123.xyz** → 我的 QQ 邮箱。
+
+![流萤](./images/firefly2.avif)
 
 ## 📬 联系我
 
