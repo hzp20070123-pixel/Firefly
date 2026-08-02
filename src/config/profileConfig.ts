@@ -12,7 +12,7 @@ export const profileConfig: ProfileConfig = {
 	name: "HZP",
 
 	// 个人签名
-	bio: "19岁，学生党，喜欢折腾技术。",
+	bio: "学生党，喜欢折腾技术。",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
